@@ -1,0 +1,3 @@
+Administrativos
+Profesores
+Alumnos
